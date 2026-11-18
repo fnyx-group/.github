@@ -6,21 +6,16 @@
   </picture>
 </p>
 
-fnyx-group builds free, open-source, privacy-first apps to help people. No ads, no tracking, no data collection.
-
-## Principles
-
-- Local-first and encrypted
-- No ads or trackers
-- Open source and auditable
-- Non-profit
+fnyx-group makes free apps to help people. The code is open source, and your data stays on your phone, encrypted. There is no account, no advertising and no tracking.
 
 ## Projects
 
-- [flust](https://github.com/fnyx-group/flust): a mobile app to quit pornography and track recovery. In development.
+[flust](https://github.com/fnyx-group/flust) is an app to help people quit pornography, including pornography made with AI. It is in development.
+
+[fnoise](https://fnyx-group.org/fnoise/) is an app to quiet the noise in your head and on your phone. It is being planned.
 
 ## Contact
 
-- Email: contact@fnyx-group.org
-- Security issues: see the `SECURITY.md` file in each repository.
-- Website: https://fnyx-group.org
+Write to contact@fnyx-group.org, in English or French. To report a security issue, follow the SECURITY.md file of the repository concerned.
+
+More on [fnyx-group.org](https://fnyx-group.org).
